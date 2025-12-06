@@ -1,4 +1,4 @@
-```markdown
+
 # Brown Dust 2 Infinite Reroll - AutoHotKey Macro 📜
 
 An AutoHotKey (AHK) macro for automating the **Infinite Draw** in Brown Dust 2. This version utilizes **GDI+** for fast and accurate image searching in the background.
